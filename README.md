@@ -4,8 +4,8 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building amaz
 
 ## About Me
 
-- I'm currently working on distributed deep learning and native apps projects.  
--  🌱 I'm continuously learning and exploring new technologies
+- 🤖 I'm currently working on distributed deep learning and native apps projects.  
+- ✨ Have a look at my published repositories for more details
 - 💡 I enjoy solving complex problems and creating efficient solutions
 - 🤝 I'm open to collaborating on interesting projects
 
