@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building amaz
 
 ## 📊 GitHub Stats
 
-![Tung Pham's GitHub statistics showing contributions, stars, and language usage](https://github-readme-stats.vercel.app/api?username=tungphambasement&show_icons=true&theme=radical)
+![GitHub stats for tungphambasement](https://github-readme-stats.vercel.app/api?username=tungphambasement&show_icons=true&theme=radical)
 
 ## 📫 How to Reach Me
 
