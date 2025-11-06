@@ -27,8 +27,9 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building amaz
 
 ## 📫 How to Reach Me
 
-Feel free to connect with me or check out my repositories!
+[LinkedIn](https://www.linkedin.com/in/tungdp/)
 
+Feel free to connect with me or check out my repositories!
 ---
 
 ⭐️ From [tungphambasement](https://github.com/tungphambasement)
